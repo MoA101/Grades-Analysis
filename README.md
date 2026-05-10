@@ -4,9 +4,13 @@ Automated grading analysis using Python and Pandas.
 
 ## What it does
 -Google Sheets API integration
+
 -Data anonymization (Faker)
+
 -Data cleaning (dropna)
+
 -Statistical summary 
+
 -Business insight 
 
 ## Tools
